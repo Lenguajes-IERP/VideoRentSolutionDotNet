@@ -9,3 +9,4 @@ C:\SW_DEV\Lenguajes2025\DotNet\VideoRentSolution\VideoRent.Domain\obj\Debug\net9
 C:\SW_DEV\Lenguajes2025\DotNet\VideoRentSolution\VideoRent.Domain\obj\Debug\net9.0\refint\VideoRent.Domain.dll
 C:\SW_DEV\Lenguajes2025\DotNet\VideoRentSolution\VideoRent.Domain\obj\Debug\net9.0\VideoRent.Domain.pdb
 C:\SW_DEV\Lenguajes2025\DotNet\VideoRentSolution\VideoRent.Domain\obj\Debug\net9.0\ref\VideoRent.Domain.dll
+C:\SW_DEV\Lenguajes2025\DotNet\VideoRentSolution\VideoRent.Domain\obj\Debug\net9.0\VideoRent.Domain.sourcelink.json

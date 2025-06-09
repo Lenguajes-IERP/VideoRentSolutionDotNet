@@ -3,40 +3,24 @@
   "WorkspaceRootPath": "C:\\SW_DEV\\Lenguajes2025\\DotNet\\VideoRentSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D607451A-AC79-4896-BC17-46D1221F73C0}|VideoRent.API\\VideoRent.API.csproj|c:\\sw_dev\\lenguajes2025\\dotnet\\videorentsolution\\videorent.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D607451A-AC79-4896-BC17-46D1221F73C0}|VideoRent.API\\VideoRent.API.csproj|solutionrelative:videorent.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D607451A-AC79-4896-BC17-46D1221F73C0}|VideoRent.API\\VideoRent.API.csproj|c:\\sw_dev\\lenguajes2025\\dotnet\\videorentsolution\\videorent.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D607451A-AC79-4896-BC17-46D1221F73C0}|VideoRent.API\\VideoRent.API.csproj|solutionrelative:videorent.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D607451A-AC79-4896-BC17-46D1221F73C0}|VideoRent.API\\VideoRent.API.csproj|c:\\sw_dev\\lenguajes2025\\dotnet\\videorentsolution\\videorent.api\\controllers\\actorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D607451A-AC79-4896-BC17-46D1221F73C0}|VideoRent.API\\VideoRent.API.csproj|solutionrelative:videorent.api\\controllers\\actorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D607451A-AC79-4896-BC17-46D1221F73C0}|VideoRent.API\\VideoRent.API.csproj|c:\\sw_dev\\lenguajes2025\\dotnet\\videorentsolution\\videorent.api\\controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D607451A-AC79-4896-BC17-46D1221F73C0}|VideoRent.API\\VideoRent.API.csproj|solutionrelative:videorent.api\\controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D607451A-AC79-4896-BC17-46D1221F73C0}|VideoRent.API\\VideoRent.API.csproj|c:\\sw_dev\\lenguajes2025\\dotnet\\videorentsolution\\videorent.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D607451A-AC79-4896-BC17-46D1221F73C0}|VideoRent.API\\VideoRent.API.csproj|solutionrelative:videorent.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D607451A-AC79-4896-BC17-46D1221F73C0}|VideoRent.API\\VideoRent.API.csproj|c:\\sw_dev\\lenguajes2025\\dotnet\\videorentsolution\\videorent.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D607451A-AC79-4896-BC17-46D1221F73C0}|VideoRent.API\\VideoRent.API.csproj|solutionrelative:videorent.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|c:\\sw_dev\\lenguajes2025\\dotnet\\videorentsolution\\videorent.test\\data\\peliculadatatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|solutionrelative:videorent.test\\data\\peliculadatatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D607451A-AC79-4896-BC17-46D1221F73C0}|VideoRent.API\\VideoRent.API.csproj|c:\\sw_dev\\lenguajes2025\\dotnet\\videorentsolution\\videorent.api\\videorent.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D607451A-AC79-4896-BC17-46D1221F73C0}|VideoRent.API\\VideoRent.API.csproj|solutionrelative:videorent.api\\videorent.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|c:\\sw_dev\\lenguajes2025\\dotnet\\videorentsolution\\videorent.test\\data\\generodatatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|solutionrelative:videorent.test\\data\\generodatatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|c:\\sw_dev\\lenguajes2025\\dotnet\\videorentsolution\\videorent.test\\domain\\generotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|solutionrelative:videorent.test\\domain\\generotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82D63247-13EC-428A-B1E8-F24CBC62388F}|VideoRent.Data\\VideoRent.Data.csproj|c:\\sw_dev\\lenguajes2025\\dotnet\\videorentsolution\\videorent.data\\peliculadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82D63247-13EC-428A-B1E8-F24CBC62388F}|VideoRent.Data\\VideoRent.Data.csproj|solutionrelative:videorent.data\\peliculadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{094207E9-5153-4467-A46B-725C2853554C}|VideoRent.Domain\\VideoRent.Domain.csproj|c:\\sw_dev\\lenguajes2025\\dotnet\\videorentsolution\\videorent.domain\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{094207E9-5153-4467-A46B-725C2853554C}|VideoRent.Domain\\VideoRent.Domain.csproj|solutionrelative:videorent.domain\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D607451A-AC79-4896-BC17-46D1221F73C0}|VideoRent.API\\VideoRent.API.csproj|c:\\sw_dev\\lenguajes2025\\dotnet\\videorentsolution\\videorent.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D607451A-AC79-4896-BC17-46D1221F73C0}|VideoRent.API\\VideoRent.API.csproj|solutionrelative:videorent.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,127 +30,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\SW_DEV\\Lenguajes2025\\DotNet\\VideoRentSolution\\VideoRent.API\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "VideoRent.API\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\SW_DEV\\Lenguajes2025\\DotNet\\VideoRentSolution\\VideoRent.API\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "VideoRent.API\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T22:29:52.003Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GeneroController.cs",
-              "DocumentMoniker": "C:\\SW_DEV\\Lenguajes2025\\DotNet\\VideoRentSolution\\VideoRent.API\\Controllers\\GeneroController.cs",
-              "RelativeDocumentMoniker": "VideoRent.API\\Controllers\\GeneroController.cs",
-              "ToolTip": "C:\\SW_DEV\\Lenguajes2025\\DotNet\\VideoRentSolution\\VideoRent.API\\Controllers\\GeneroController.cs",
-              "RelativeToolTip": "VideoRent.API\\Controllers\\GeneroController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T22:29:53.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\SW_DEV\\Lenguajes2025\\DotNet\\VideoRentSolution\\VideoRent.API\\Program.cs",
-              "RelativeDocumentMoniker": "VideoRent.API\\Program.cs",
-              "ToolTip": "C:\\SW_DEV\\Lenguajes2025\\DotNet\\VideoRentSolution\\VideoRent.API\\Program.cs",
-              "RelativeToolTip": "VideoRent.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T22:28:49.155Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\SW_DEV\\Lenguajes2025\\DotNet\\VideoRentSolution\\VideoRent.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "VideoRent.API\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\SW_DEV\\Lenguajes2025\\DotNet\\VideoRentSolution\\VideoRent.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "VideoRent.API\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-19T22:26:24.595Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GeneroTest.cs",
-              "DocumentMoniker": "C:\\SW_DEV\\Lenguajes2025\\DotNet\\VideoRentSolution\\VideoRent.Test\\Domain\\GeneroTest.cs",
-              "RelativeDocumentMoniker": "VideoRent.Test\\Domain\\GeneroTest.cs",
-              "ToolTip": "C:\\SW_DEV\\Lenguajes2025\\DotNet\\VideoRentSolution\\VideoRent.Test\\Domain\\GeneroTest.cs",
-              "RelativeToolTip": "VideoRent.Test\\Domain\\GeneroTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T21:33:39.886Z",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\SW_DEV\\Lenguajes2025\\DotNet\\VideoRentSolution\\VideoRent.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "VideoRent.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\SW_DEV\\Lenguajes2025\\DotNet\\VideoRentSolution\\VideoRent.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "VideoRent.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-07T16:44:44.038Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GeneroDataTest.cs",
-              "DocumentMoniker": "C:\\SW_DEV\\Lenguajes2025\\DotNet\\VideoRentSolution\\VideoRent.Test\\Data\\GeneroDataTest.cs",
-              "RelativeDocumentMoniker": "VideoRent.Test\\Data\\GeneroDataTest.cs",
-              "ToolTip": "C:\\SW_DEV\\Lenguajes2025\\DotNet\\VideoRentSolution\\VideoRent.Test\\Data\\GeneroDataTest.cs",
-              "RelativeToolTip": "VideoRent.Test\\Data\\GeneroDataTest.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAA0wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T21:05:42.077Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PeliculaData.cs",
-              "DocumentMoniker": "C:\\SW_DEV\\Lenguajes2025\\DotNet\\VideoRentSolution\\VideoRent.Data\\PeliculaData.cs",
-              "RelativeDocumentMoniker": "VideoRent.Data\\PeliculaData.cs",
-              "ToolTip": "C:\\SW_DEV\\Lenguajes2025\\DotNet\\VideoRentSolution\\VideoRent.Data\\PeliculaData.cs",
-              "RelativeToolTip": "VideoRent.Data\\PeliculaData.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAuwFgAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T20:47:26.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Pelicula.cs",
-              "DocumentMoniker": "C:\\SW_DEV\\Lenguajes2025\\DotNet\\VideoRentSolution\\VideoRent.Domain\\Pelicula.cs",
-              "RelativeDocumentMoniker": "VideoRent.Domain\\Pelicula.cs",
-              "ToolTip": "C:\\SW_DEV\\Lenguajes2025\\DotNet\\VideoRentSolution\\VideoRent.Domain\\Pelicula.cs",
-              "RelativeToolTip": "VideoRent.Domain\\Pelicula.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T20:35:26.95Z",
+              "DocumentIndex": 3,
+              "Title": "VideoRent.API.http",
+              "DocumentMoniker": "C:\\SW_DEV\\Lenguajes2025\\DotNet\\VideoRentSolution\\VideoRent.API\\VideoRent.API.http",
+              "RelativeDocumentMoniker": "VideoRent.API\\VideoRent.API.http",
+              "ToolTip": "C:\\SW_DEV\\Lenguajes2025\\DotNet\\VideoRentSolution\\VideoRent.API\\VideoRent.API.http",
+              "RelativeToolTip": "VideoRent.API\\VideoRent.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-07T16:44:20.48Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "PeliculaDataTest.cs",
-              "DocumentMoniker": "C:\\SW_DEV\\Lenguajes2025\\DotNet\\VideoRentSolution\\VideoRent.Test\\Data\\PeliculaDataTest.cs",
-              "RelativeDocumentMoniker": "VideoRent.Test\\Data\\PeliculaDataTest.cs",
-              "ToolTip": "C:\\SW_DEV\\Lenguajes2025\\DotNet\\VideoRentSolution\\VideoRent.Test\\Data\\PeliculaDataTest.cs",
-              "RelativeToolTip": "VideoRent.Test\\Data\\PeliculaDataTest.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAxwBAAAAAAAAAAAAAAAA==",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\SW_DEV\\Lenguajes2025\\DotNet\\VideoRentSolution\\VideoRent.API\\appsettings.json",
+              "RelativeDocumentMoniker": "VideoRent.API\\appsettings.json",
+              "ToolTip": "C:\\SW_DEV\\Lenguajes2025\\DotNet\\VideoRentSolution\\VideoRent.API\\appsettings.json",
+              "RelativeToolTip": "VideoRent.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-07T16:44:15.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GeneroController.cs",
+              "DocumentMoniker": "C:\\SW_DEV\\Lenguajes2025\\DotNet\\VideoRentSolution\\VideoRent.API\\Controllers\\GeneroController.cs",
+              "RelativeDocumentMoniker": "VideoRent.API\\Controllers\\GeneroController.cs",
+              "ToolTip": "C:\\SW_DEV\\Lenguajes2025\\DotNet\\VideoRentSolution\\VideoRent.API\\Controllers\\GeneroController.cs",
+              "RelativeToolTip": "VideoRent.API\\Controllers\\GeneroController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T20:31:50.407Z",
+              "WhenOpened": "2025-06-07T16:32:16.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ActorsController.cs",
+              "DocumentMoniker": "C:\\SW_DEV\\Lenguajes2025\\DotNet\\VideoRentSolution\\VideoRent.API\\Controllers\\ActorsController.cs",
+              "RelativeDocumentMoniker": "VideoRent.API\\Controllers\\ActorsController.cs",
+              "ToolTip": "C:\\SW_DEV\\Lenguajes2025\\DotNet\\VideoRentSolution\\VideoRent.API\\Controllers\\ActorsController.cs",
+              "RelativeToolTip": "VideoRent.API\\Controllers\\ActorsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T16:23:00.341Z",
               "EditorCaption": ""
             }
           ]
